@@ -23,7 +23,7 @@ A comprehensive healthcare backend system built with Node.js, Express.js, Postgr
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/Abhinaba35/Healthcare-Backend-API
+git clone https://github.com/compiter/Healthcare-Backend-API
 cd healthcare-backend
 ```
 
