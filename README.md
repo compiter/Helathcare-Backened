@@ -186,10 +186,3 @@ DB_HOST=your_production_db_host
 JWT_SECRET=your_super_secure_production_secret
 ```
 
-## License
-
-This project is licensed under the MIT License.
-
-## Support
-
-For support, email dasjayanti208@gmail.com or create an issue in the repository.
